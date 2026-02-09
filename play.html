@@ -29,28 +29,15 @@
         const parser = new DOMParser();
         const doc = parser.parseFromString(html, "text/html");
 
-        const tablas = doc.querySelectorAll("table.wikitable");
+        // Selecciona TODAS las tablas wikitable (aunque tengan más clases)
+        const tablas = doc.querySelectorAll("table[class^='wikitable']");
         let juegos = [];
 
         tablas.forEach(tabla => {
-          const filas = tabla.querySelectorAll("tr");
-          filas.forEach((fila, i) => {
-            if (i === 0) return;
-
-            const th = fila.querySelector("th");
-            const td = fila.querySelector("td");
-
-            let nombre = "";
-
-            if (th) {
-              nombre = th.innerText.trim();
-            } else if (td) {
-              nombre = td.innerText.trim();
-            }
-
-            if (nombre && nombre.length > 2 && !nombre.includes("Notes")) {
-              juegos.push(nombre);
-            }
+          const enlaces = tabla.querySelectorAll("th[scope='row'] a");
+          enlaces.forEach(a => {
+            const nombre = a.textContent.trim();
+            if (nombre) juegos.push(nombre);
           });
         });
 
@@ -60,8 +47,7 @@
 
         document.getElementById("search").addEventListener("input", e => {
           const q = e.target.value.toLowerCase();
-          const filtrados = juegos.filter(j => j.toLowerCase().includes(q));
-          render(filtrados);
+          render(juegos.filter(j => j.toLowerCase().includes(q)));
         });
 
       } catch (e) {
