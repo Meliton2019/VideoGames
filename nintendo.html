@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Videojuegos desarrollados por Nintendo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <div class="max-w-3xl mx-auto p-6">
+    <h1 class="text-2xl font-bold mb-4">Lista automática de videojuegos de Nintendo</h1>
+    <p class="mb-4 text-sm text-gray-600">Datos obtenidos dinámicamente desde Wikipedia.</p>
+
+    <div class="mb-4">
+      <input id="search" type="text" placeholder="Buscar juego..." class="w-full p-2 rounded border" />
+    </div>
+
+    <ul id="lista" class="bg-white rounded shadow p-4 space-y-1 text-sm"></ul>
+
+    <p id="estado" class="mt-4 text-sm text-gray-500">Cargando datos...</p>
+  </div>
+
+  <script>
+    const URL = "https://en.wikipedia.org/api/rest_v1/page/html/List_of_video_games_developed_by_Nintendo";
+
+    async function cargarJuegos() {
+      try {
+        const res = await fetch(URL);
+        const html = await res.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, "text/html");
+
+        const tablas = doc.querySelectorAll("table.wikitable");
+        let juegos = [];
+
+        tablas.forEach(tabla => {
+          const filas = tabla.querySelectorAll("tr");
+          filas.forEach((fila, i) => {
+            if (i === 0) return;
+            const cols = fila.querySelectorAll("td");
+            if (cols.length > 0) {
+              const nombre = cols[0].innerText.trim();
+              juegos.push(nombre);
+            }
+          });
+        });
+
+        juegos = [...new Set(juegos)].sort();
+        render(juegos);
+        document.getElementById("estado").innerText = `Total: ${juegos.length} juegos`;
+
+        // Buscador
+        document.getElementById("search").addEventListener("input", e => {
+          const q = e.target.value.toLowerCase();
+          const filtrados = juegos.filter(j => j.toLowerCase().includes(q));
+          render(filtrados);
+        });
+
+      } catch (e) {
+        document.getElementById("estado").innerText = "Error cargando datos";
+        console.error(e);
+      }
+    }
+
+    function render(juegos) {
+      const ul = document.getElementById("lista");
+      ul.innerHTML = "";
+      juegos.forEach(j => {
+        const li = document.createElement("li");
+        li.textContent = j;
+        ul.appendChild(li);
+      });
+    }
+
+    cargarJuegos();
+  </script>
+</body>
+</html>
