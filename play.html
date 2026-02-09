@@ -36,9 +36,19 @@
           const filas = tabla.querySelectorAll("tr");
           filas.forEach((fila, i) => {
             if (i === 0) return;
-            const cols = fila.querySelectorAll("td");
-            if (cols.length > 0) {
-              const nombre = cols[0].innerText.trim();
+
+            const th = fila.querySelector("th");
+            const td = fila.querySelector("td");
+
+            let nombre = "";
+
+            if (th) {
+              nombre = th.innerText.trim();
+            } else if (td) {
+              nombre = td.innerText.trim();
+            }
+
+            if (nombre && nombre.length > 2 && !nombre.includes("Notes")) {
               juegos.push(nombre);
             }
           });
