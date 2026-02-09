@@ -20,7 +20,7 @@
   </div>
 
   <script>
-    const URL = "https://en.wikipedia.org/wiki/List_of_Valve_games";
+    const URL = "https://en.wikipedia.org/api/rest_v1/page/html/List_of_Valve_games";
 
     async function cargarJuegos() {
       try {
@@ -35,11 +35,11 @@
         tablas.forEach(tabla => {
           const filas = tabla.querySelectorAll("tr");
           filas.forEach((fila, i) => {
-            if (i === 0) return;
+            if (i === 0) return; // cabecera
             const cols = fila.querySelectorAll("td");
             if (cols.length > 0) {
               const nombre = cols[0].innerText.trim();
-              juegos.push(nombre);
+              if (nombre) juegos.push(nombre);
             }
           });
         });
@@ -48,7 +48,6 @@
         render(juegos);
         document.getElementById("estado").innerText = `Total: ${juegos.length} juegos`;
 
-        // Buscador
         document.getElementById("search").addEventListener("input", e => {
           const q = e.target.value.toLowerCase();
           const filtrados = juegos.filter(j => j.toLowerCase().includes(q));
