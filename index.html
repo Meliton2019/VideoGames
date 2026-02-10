@@ -36,33 +36,38 @@
   </div>
 
   <script>
-    const URL = "txt/games.txt"; // archivo en el mismo repo
+    const URL = "txt/games.txt";
+
+    // Función para normalizar texto y eliminar acentos
+    const normalize = s =>
+      s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
     async function cargarJuegos() {
       try {
-        const res = await fetch(URL);
+        // Evitar cache con un parámetro único
+        const res = await fetch(`${URL}?v=${Date.now()}`);
         const texto = await res.text();
 
         let juegos = texto
-          .split("\n")
+          .split(/\r?\n/)           // Soporte para \r\n y \n
           .map(j => j.trim())
           .filter(j => j.length);
 
-        juegos = [...new Set(juegos)].sort();
-        render(juegos);
+        // Eliminar duplicados y ordenar
+        juegos = [...new Set(juegos)].sort((a,b) => a.localeCompare(b));
 
+        render(juegos);
         document.getElementById("estado").innerText =
           `Total: ${juegos.length} juegos`;
 
-        document
-          .getElementById("search")
-          .addEventListener("input", e => {
-            const q = e.target.value.toLowerCase();
-            const filtrados = juegos.filter(j =>
-              j.toLowerCase().includes(q)
-            );
-            render(filtrados);
-          });
+        // Filtrado dinámico
+        document.getElementById("search").addEventListener("input", e => {
+          const q = normalize(e.target.value);
+          const filtrados = juegos.filter(j => normalize(j).includes(q));
+          render(filtrados);
+          document.getElementById("estado").innerText =
+            `Mostrando: ${filtrados.length} de ${juegos.length} juegos`;
+        });
 
       } catch (e) {
         document.getElementById("estado").innerText =
