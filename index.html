@@ -1,37 +1,87 @@
-<html>
-  <head>
-    <title>Video Games</title>
-    <style>
-      * {
-        font-family: arial;
-        color: black;
-      }
-      body {
-        text-align: center;
-        margin: 0;
-        padding: 0;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-        background-attachment: fixed;
-      }
-      img {
-        cursor: pointer;
-      }
-    </style>
-  </head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Videojuegos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
 
-  <body>
-    <h1>Video Games</h1>
+<body class="bg-gray-100 text-gray-900">
+  <div class="max-w-3xl mx-auto p-6">
+    <h1 class="text-2xl font-bold mb-4">
+      Videojuegos
+    </h1>
 
-    <a href="nintendo.html" target="_blank">
-      <img src="img/Nintendo.png" alt="Ir al enlace" width="300">
-    </a>
-    <a href="valve.html" target="_blank">
-      <img src="img/valve.png" alt="Ir al enlace" width="300">
-    </a> <a href="sony.html" target="_blank">
-      <img src="img/sony.png" alt="Ir al enlace" width="300">
-    </a>
+    <div class="mb-4">
+      <input
+        id="search"
+        type="text"
+        placeholder="Buscar juego..."
+        class="w-full p-2 rounded border focus:outline-none focus:ring"
+      />
+    </div>
 
-  </body>
+    <ul
+      id="lista"
+      class="bg-white rounded shadow p-4 space-y-1 text-sm"
+    ></ul>
+
+    <p
+      id="estado"
+      class="mt-4 text-sm text-gray-500"
+    >
+      Cargando datos...
+    </p>
+  </div>
+
+  <script>
+    const URL = "txt/games.txt"; // archivo en el mismo repo
+
+    async function cargarJuegos() {
+      try {
+        const res = await fetch(URL);
+        const texto = await res.text();
+
+        let juegos = texto
+          .split("\n")
+          .map(j => j.trim())
+          .filter(j => j.length);
+
+        juegos = [...new Set(juegos)].sort();
+        render(juegos);
+
+        document.getElementById("estado").innerText =
+          `Total: ${juegos.length} juegos`;
+
+        document
+          .getElementById("search")
+          .addEventListener("input", e => {
+            const q = e.target.value.toLowerCase();
+            const filtrados = juegos.filter(j =>
+              j.toLowerCase().includes(q)
+            );
+            render(filtrados);
+          });
+
+      } catch (e) {
+        document.getElementById("estado").innerText =
+          "Error cargando datos";
+        console.error(e);
+      }
+    }
+
+    function render(juegos) {
+      const ul = document.getElementById("lista");
+      ul.innerHTML = "";
+      juegos.forEach(j => {
+        const li = document.createElement("li");
+        li.textContent = j;
+        ul.appendChild(li);
+      });
+    }
+
+    cargarJuegos();
+  </script>
+</body>
 </html>
