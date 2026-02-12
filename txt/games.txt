@@ -3556,15 +3556,15 @@ Gran Turismo 2
 Gran Turismo 3
 My First Gran Turismo
 Aliens Versus Predator
-America's Army: Rise of a Soldier
+America's Army Rise of a Soldier
 Animalz Marine Zoo
 Arcatera
-Assassin's Creed: Lost Legacy
+Assassin's Creed Lost Legacy
 Assassin's Creed Utopia
 Babyz Party
 Bonx
-Bratz: Formal Funk
-Brothers in Arms: Furious 4
+Bratz Formal Funk
+Brothers in Arms Furious 4
 Call of Juarez
 Campus
 Charlie's Angels
@@ -3572,26 +3572,26 @@ Cloudberry Kingdom
 Crouching Tiger, Hidden Dragon
 Dance on Broadway
 Dragon Riders
-E.T.: Return to the Green Planet
+E.T. Return to the Green Planet
 Far Cry Instincts
 F1 Racing Championship 2
 Funky Barn
-Gold and Glory: The Road to El Dorado
+Gold and Glory The Road to El Dorado
 Guitar Hits
 Haze
 Heroes
-Imagine: Animal Doctor
+Imagine Animal Doctor
 Killer Freaks from Outer Space
 Killing Day
 Larry Bond's Harpoon 4
 Might & Magic Raiders
 My Life Coach
-Petz: Monkeyz House
+Petz Monkeyz House
 Project Q
 Rayman
 Rayman 2
 Rayman 4
-Rayman 4: Raving Rabbids
+Rayman 4 Raving Rabbids
 Steep
 TMNT
 Tom Clancy's Ghost Recon 2
@@ -3599,17 +3599,88 @@ Tom Clancy's Ghost Recon Advanced Warfighter
 Tom Clancy's Ghost Recon Advanced Warfighter 2
 Tom Clancy's Ghost Recon Commander
 Tom Clancy's Ghost Recon Frontline
-Tom Clancy's Ghost Recon: Future Soldier
-Tom Clancy's Ghost Recon: Island Thunder
+Tom Clancy's Ghost Recon Future Soldier
+Tom Clancy's Ghost Recon Island Thunder
 Tom Clancy's Ghost Recon Phantoms
-Tom Clancy's Rainbow 6: Patriots
-Tom Clancy's Rainbow Six: Critical Hour
-Tom Clancy's Rainbow Six: Rogue Spear
-Tom Clancy's Rainbow Six: Vegas
+Tom Clancy's Rainbow 6 Patriots
+Tom Clancy's Rainbow Six Critical Hour
+Tom Clancy's Rainbow Six Rogue Spear
+Tom Clancy's Rainbow Six Vegas
 Tom Clancy's Splinter Cell
 Tom Clancy's The Division Heartland
 V.I.P.
 Wild
 Wildwaters
 ZombiU 2
-Prince of Persia: The Sands of Time Remake
+Prince of Persia The Sands of Time Remake
+Counter-Strike 2
+Dota 2
+PUBG BATTLEGROUNDS
+Rust
+Bongo Cat
+ARC Raiders
+Apex Legends
+Terraria
+Delta Force
+FiveM
+Overwatch
+War Thunder
+Mewgenics
+Warframe
+tModLoader
+Deadlock
+Spacewar
+Marvel Rivals
+NARAKA BLADEPOINT
+Heartopia
+Nioh 3
+DayZ
+Hearts of Iron IV
+Crosshair X
+Tom Clancy's Rainbow Six Siege X
+Where Winds Meet
+Football Manager 26
+Sid Meier's Civilization VI
+Palworld
+Limbus Company
+Project Zomboid
+Yu-Gi-Oh! Master Duel
+ELDEN RING
+RimWorld
+Farming Simulator 25
+7 Days to Die
+Don't Starve Together
+Cyberpunk 2077
+Arena Breakout Infinite
+PAYDAY 2
+Mount & Blade II Bannerlord
+ARK Survival Ascended
+Total War WARHAMMER III
+ARK Survival Evolved
+The Binding of Isaac Rebirth
+The Elder Scrolls V Skyrim Special Edition
+Kingdom Come Deliverance II
+Valheim
+Hunt Showdown 1896
+Path of Exile 2
+Counter-Strike Source
+Banana
+Street Fighter™ 6
+Slay the Spire
+eFootball™
+Crusader Kings III
+Football Manager 2024
+Black Desert
+No Man's Sky
+Satisfactory
+Age of Empires II Definitive Edition
+Monster Hunter Wilds
+STALCRAFT X
+No Rest for the Wicked
+Russian Fishing 4
+Soundpad
+Factorio
+Wuthering Waves
+Escape from Tarkov
+The Witcher 3 Wild Hunt
+Once Human
