@@ -967,7 +967,7 @@ Kirby's Return to Dream Land
 Kirby's Slide Puzzle
 Kirby's Star Stacker
 Kirby Canvas Curse
-Kirby Nightmare in Dream Land
+Kirby Nighare in Dream Land
 Kirby Planet Robobot
 Kirby Right Back at Ya! Trumps
 Kirby Squeak Squad
@@ -1805,8 +1805,8 @@ Snowpack Park
 Soccer
 Soccer Shootout
 Softweaver
-Solar Jetman
-Solar Jetman Hunt for the Golden Warpship
+Solar Jean
+Solar Jean Hunt for the Golden Warpship
 Solar Striker
 Solatorobo Red the Hunter
 Solstice The Quest for the Staff of Demnos
@@ -2074,7 +2074,7 @@ The Lost Vikings
 The Magical Quest Starring Mickey Mouse
 The Mysterious Murasame Castle
 The New Tetris
-The Nightmare Before Christmas The Pumpkin King
+The Nighare Before Chrisas The Pumpkin King
 The Rescue of Princess Blobette
 The Smurfs
 The Software Toolworks
@@ -2339,7 +2339,7 @@ Rust
 PUBGBATTLEGROUNDS
 Bongo Cat
 Delta Forze
-HELLDIVERS™ 2
+HELLDIVERS 2
 Apex Legends
 ARC RAIDERS
 Terraria
@@ -2373,7 +2373,7 @@ Age of Mythology Extended Edition
 Age of Wonders III
 AirMech Strike
 Alan Wake
-Alan Wake's American Nightmare
+Alan Wake's American Nighare
 Albion Online
 Alien Swarm
 Alien Isolation
@@ -2419,10 +2419,10 @@ Baldur's Gate Enhanced Edition
 Banished
 Barotrauma
 Bastion
-Batman Arkham Asylum Game of the Year Edition
-Batman Arkham City - Game of the Year Edition
-Batman Arkham Knight
-Batman Arkham Origins
+Baan Arkham Asylum Game of the Year Edition
+Baan Arkham City - Game of the Year Edition
+Baan Arkham Knight
+Baan Arkham Origins
 BattleBit Remastered
 BattleBlock Theater
 Battlefield 1
@@ -2750,9 +2750,9 @@ Gunfire Reborn
 Guns of Icarus Online
 HELLDIVERS 2
 HELLDIVERS Dive Harder Edition
-HITMAN
-HITMAN 2
-HITMAN World of Assassination
+HIAN
+HIAN 2
+HIAN World of Assassination
 Hacknet
 Hades
 Hades II
@@ -2780,9 +2780,9 @@ Helltaker
 Hero Siege
 Heroes & Generals
 Heroes of Might & Magic III - HD Edition
-Hitman 2 Silent Assassin
-Hitman Absolution
-Hitman Blood Money
+Hian 2 Silent Assassin
+Hian Absolution
+Hian Blood Money
 Hogwarts Legacy
 Hollow Knight
 HoloCure - Save the Fans!
@@ -2820,7 +2820,7 @@ Keep Talking and Nobody Explodes
 Kenshi
 Kerbal Space Program
 Kholat
-Killer is Dead - Nightmare Edition
+Killer is Dead - Nighare Edition
 Killing Floor
 Killing Floor 2
 Kingdom Come Deliverance
@@ -2849,7 +2849,7 @@ Life is Strange - Episode 1
 Life is Strange 2
 Life is Strange Before the Storm
 Line of Sight
-Little Nightmares
+Little Nighares
 Loadout
 Lobotomy Corporation | Monster Management Simulation
 Loop Hero
@@ -3490,7 +3490,7 @@ Sonic Racing CrossWorlds
 Saints Row
 007 first light
 Battlefield 6
-Little Nightmares 3
+Little Nighares 3
 Ride 6
 Clock Tower Rewind
 Slime Rancher 2
@@ -3593,7 +3593,7 @@ Rayman 2
 Rayman 4
 Rayman 4 Raving Rabbids
 Steep
-TMNT
+NT
 Tom Clancy's Ghost Recon 2
 Tom Clancy's Ghost Recon Advanced Warfighter
 Tom Clancy's Ghost Recon Advanced Warfighter 2
@@ -3627,7 +3627,7 @@ Overwatch
 War Thunder
 Mewgenics
 Warframe
-tModLoader
+odLoader
 Deadlock
 Spacewar
 Marvel Rivals
@@ -3665,9 +3665,9 @@ Hunt Showdown 1896
 Path of Exile 2
 Counter-Strike Source
 Banana
-Street Fighter™ 6
+Street Fighter 6
 Slay the Spire
-eFootball™
+eFootball
 Crusader Kings III
 Football Manager 2024
 Black Desert
@@ -3684,3 +3684,404 @@ Wuthering Waves
 Escape from Tarkov
 The Witcher 3 Wild Hunt
 Once Human
+Black Myth: Wukong
+Enshrouded
+FINAL FANTASY XIV Online
+Sid Meier's Civilization V
+Stellaris
+PEAK
+Squad
+VTube Studio
+Deep Rock Galactic
+Schedule I
+It Takes Two
+SCUM
+Blender
+EA SPORTS FC 25
+THE FINALS
+Counter-Strike
+Hollow Knight: Silksong
+Goose Goose Duck
+The Elder Scrolls Online
+Eternal Return
+Burglin' Gnomes Demo
+Assetto Corsa
+Divinity: Original Sin 2
+MIR4
+Monster Hunter: World
+Hogwarts Legacy
+Fallout: New Vegas
+Arma Reforger
+Lost Ark
+Phasmophobia
+Age of Empires IV: Anniversary Edition
+The Bazaar
+Path of Exile
+Brotato
+Clair Obscur: Expedition 33
+Umamusume: Pretty Derby
+Resident Evil 4
+Escape from Duckov
+MENACE
+Warhammer 40,000: Space Marine 2
+Cookie Clicker
+Oxygen Not Included
+Brawlhalla
+DRAGON QUEST VII Reimagined
+Unturned
+Legends of Idleon MMO
+Balatro
+Cities: Skylines II
+Europa Universalis V
+Bloons TD 6
+Foxhole
+Hollow Knight
+雀魂麻将 (MahjongSoul)
+Sons Of The Forest
+YoloMouse
+Green Hell
+World of Tanks
+Albion Online
+Starsand Island
+Destiny 2
+Europa Universalis IV
+Raft
+Dune: Awakening
+Summoners War
+Cities: Skylines
+Megabonk
+The Isle
+The First Descendant
+Party Animals
+Revolution Idle
+Magic: The Gathering Arena
+Bellwright
+NBA 2K25
+Arma 3
+Split Fiction
+HumanitZ
+Dark and Darker
+Supermarket Together
+Sid Meier's Civilization VII
+鬼谷八荒 Tale of Immortal
+THRONE AND LIBERTY
+Dying Light
+Farming Simulator 22
+Waifusitter
+Icarus
+VPet
+Risk of Rain 2
+Cult of the Lamb
+DAVE THE DIVER
+TEKKEN 8
+Darkest Dungeon
+World of Tanks Blitz
+American Truck Simulator
+Diablo IV
+Ready or Not
+Astral Party
+Dyson Sphere Program
+SnowRunner
+Yakuza Kiwami 3 & Dark Ties
+Hades II
+People Playground
+Lossless Scaling
+F1 25
+Disney Dreamlight Valley
+S.T.A.L.K.E.R. 2: Heart of Chornobyl
+DSX
+Palia
+Persona 5 Royal
+Aimlabs
+Torchlight: Infinite
+YAPYAP
+Guild Wars 2
+Victoria 3
+Conan Exiles
+Among Us
+Kingdom Come: Deliverance
+Total War: THREE KINGDOMS
+The Quinfall
+Sea of Thieves
+Aseprite
+Call to Arms - Gates of Hell: Ostfront
+Detroit: Become Human
+Tabletop Simulator
+Warhammer 40,000: Darktide
+theHunter: Call of the Wild
+SCP: Secret Laboratory
+MONSTER HUNTER RISE
+Kenshi
+The Outlast Trials
+INAZUMA ELEVEN: Victory Road
+Assassin's Creed Valhalla
+V Rising
+The Forest
+Shadowverse: Worlds Beyond
+Total War: ROME II - Emperor Edition
+XCOM 2
+StarRupture
+DARK SOULS III
+Microsoft Flight Simulator 2024
+BLOODSTRIKE
+Ghost of Tsushima DIRECTOR'S CUT
+EVE Online
+Play Together
+FOR HONOR
+Warhammer 40,000: Rogue Trader
+Cell to Singularity - Evolution Never Ends
+Transport Fever 2
+Blue Archive
+Fish Idle 2: Underwater Mystery
+Forza Horizon 4
+Le Mans Ultimate
+Enlisted
+DEATH STRANDING DIRECTOR'S CUT
+Desktop Mate
+Sky: Children of the Light
+OVR Advanced Settings
+Age of Empires III: Definitive Edition
+Fallout Shelter
+Grounded 2
+Tom Clancy's The Division 2
+Assassin's Creed Odyssey
+Unnamed Space Idle
+Middle-earth: Shadow of War
+DYNASTY WARRIORS: ORIGINS
+Sekiro: Shadows Die Twice
+Timberborn
+Diablo II: Resurrected – Infernal Edition
+MY HERO ULTRA RUMBLE
+Lost Castle 2
+Mount & Blade: Warband
+Escape the Backrooms
+Overcooked! 2
+Half Sword
+Killing Floor 2
+STAR WARS: The Old Republic
+Manor Lords
+Fishing Planet
+Subnautica
+Microsoft Flight Simulator (2020)
+Battlefield 1
+Cairn
+Grand Theft Auto IV: The Complete Edition
+Stellar Blade
+God of War Ragnarök
+Total War: MEDIEVAL II - Definitive Edition
+Core Keeper
+Conqueror's Blade
+Lethal Company
+Dying Light 2: Reloaded Edition
+Grounded
+World of Sea Battle
+Half Sword Demo
+Borderlands 4
+小黑盒加速器
+X4: Foundations
+Supermarket Simulator
+Elite Dangerous
+Tap Ninja
+ShareX
+ウマ娘 プリティーダービー
+NGU IDLE
+RV There Yet?
+Melvor Idle
+Stronghold Crusader: Definitive Edition
+HIAN World of Assassination
+God of War
+Shop Titans
+RedM
+Monster Train 2
+SMITE 2
+Hades
+Barotrauma
+Crosshair V2
+Stumble Guys
+The Planet Crafter
+Space Engineers
+KovaaK's
+DDNet
+Assetto Corsa EVO
+Granblue Fantasy: Relink
+Anno 1800
+Workers & Resources: Soviet Republic
+Vampire Survivors
+Planet Zoo
+Hell Let Loose
+Teardown
+Space Station 14 Playtest
+Marvel’s Spider-Man Remastered
+Age of Mythology: Retold
+Resident Evil 2
+Chained Together
+GeoGuessr Steam Edition
+WUCHANG: Fallen Feathers
+Dying Light: The Beast
+Assassin's Creed Shadows
+STAR WARS Jedi: Survivor
+The Last Caretaker
+Company of Heroes 3
+Quarantine Zone: The Last Check
+Your Chronicle
+Need for Speed Heat
+HudSight - crosshair overlay
+Medieval Dynasty
+Soundpad Demo
+Upload Labs
+The Long Dark
+PUBG: BLINDSPOT
+Company of Heroes 2
+Age of Empires II (2013)
+Broken Arrow
+Resident Evil Village
+Lust Goddess
+Call of Duty: Black Ops III
+Mass Effect Legendary Edition
+Nioh 2 – The Complete Edition
+Grim Dawn
+Avatar: Frontiers of Pandora
+Strinova
+BALL x PIT
+Starfield
+Football Manager 2023
+Remnant II
+Warhammer: Vermintide 2
+Battlefield V
+Call of Duty: Modern Warfare II
+Borderlands 3
+Total War: ATTILA
+RuneScape
+Kerbal Space Program
+The Last of Us Part II Remastered
+XSOverlay
+The Last of Us Part I
+KARDS - The WWII Card Game
+DARK SOULS: REMASTERED
+Hunter Roulette
+gogh: Focus with Your Avatar
+Gunfire Reborn
+Mortal Kombat 1
+Pummel Party
+They Are Billions
+SAO Utils 2: Progressive
+Idle Champions of the Forgotten Realms
+Rise of the Tomb Raider
+觅长生
+DOOM: The Dark Ages
+Monster Hunter Stories 3: Twisted Reflection Trial Version
+Wandering Sword
+REMATCH
+GrandChase
+Frostpunk
+Backpack Battles
+Plants vs. Zombies: Game of the Year
+BlazBlue Entropy Effect
+Sniper Elite 5
+Days Gone
+EA SPORTS Madden NFL 26
+Total War: EMPIRE - Definitive Edition
+Pathfinder: Wrath of the Righteous - Enhanced Edition
+Wallpaper Play
+Far Cry 5
+Tap Tap Loot Playtest
+Halo: The Master Chief Collection
+Total War: SHOGUN 2
+Rabbit and Steel
+Hero's Land
+Captain of Industry
+Ranch Simulator
+World War Z
+Horizon Forbidden West Complete Edition
+EA SPORTS FC 24
+Assetto Corsa Competizione
+MX Bikes
+妹居物语 Demo
+Dead Island 2
+Alchemy Factory
+My Summer Car
+FINAL FANTASY VII REBIRTH
+Sultan's Game
+Deep Rock Galactic: Survivor
+Persona 3 Reload
+House Flipper 2
+RISK: Global Domination
+Titan Quest II
+Wartales
+Fallout: New Vegas PCR
+STAR WARS Jedi: Fallen Order
+TCG Card Shop Simulator
+学生时代
+Dead Cells
+Noita
+Clicker Heroes
+Tainted Grail: The Fall of Avalon
+Poppy Playtime
+ULTRAKILL
+Blue Protocol: Star Resonance
+UBERMOSH:WRAITH
+Half-Life 2
+Cuphead
+Yu-Gi-Oh! Duel Links
+Ghost Recon Breakpoint
+Stay Out
+STAR WARS Battlefront II
+Assassin's Creed Origins
+CODE VEIN II
+天外 : 英雄 Online
+Marvel's Spider-Man 2
+Train Sim World 6
+ROMANCE OF THE THREE KINGDOMS XIV
+MyDockFinder
+Firestone – Idle Clicker Online RPG
+Project: Gorgon
+WorldBox - God Simulator
+DEAD OR ALIVE Xtreme Venus Vacation
+Farmer Against Potatoes Idle
+Farthest Frontier
+Anno 117: Pax Romana
+Backroom Company
+skate.
+Borderlands 2
+Baan: Arkham Knight
+Mecha BREAK
+Dispatch
+Mortal Kombat 11
+Abiotic Factor
+Car Mechanic Simulator 2021
+Crossout
+Coral Island
+Highguard
+Divinity: Original Sin Enhanced Edition
+A Way Out
+MineMogul
+Call of Duty: Modern Warfare III
+Roadside Research
+Shape of Dreams
+ROMANCE OF THE THREE KINGDOMS 8 REMAKE
+Chill with You Lo-Fi Story
+State of Decay 2
+Age of Wonders 4
+Battle Brothers
+Human Fall Flat
+Library Of Ruina
+MARVEL SNAP
+ONE PIECE Bounty Rush
+inZOI
+DOOM Eternal
+Persona5: The Phantom X
+Mafia: Definitive Edition
+Heroes of Might & Magic III - HD Edition
+SurrounDead
+My Winter Car
+STAR WARS Empire at War: Gold Pack
+Tomb Raider
+Knight Online
+Soulmask
+House Flipper
+Nioh 3 Demo
+Idle Hero TD
+Infinity Nikki
+Lobotomy Corporation
+Feed The Cups
+
