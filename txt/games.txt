@@ -3684,7 +3684,7 @@ Wuthering Waves
 Escape from Tarkov
 The Witcher 3 Wild Hunt
 Once Human
-Black Myth: Wukong
+Black Myth Wukong
 Enshrouded
 FINAL FANTASY XIV Online
 Sid Meier's Civilization V
@@ -3700,30 +3700,30 @@ Blender
 EA SPORTS FC 25
 THE FINALS
 Counter-Strike
-Hollow Knight: Silksong
+Hollow Knight Silksong
 Goose Goose Duck
 The Elder Scrolls Online
 Eternal Return
 Burglin' Gnomes Demo
 Assetto Corsa
-Divinity: Original Sin 2
+Divinity Original Sin 2
 MIR4
-Monster Hunter: World
+Monster Hunter World
 Hogwarts Legacy
-Fallout: New Vegas
+Fallout New Vegas
 Arma Reforger
 Lost Ark
 Phasmophobia
-Age of Empires IV: Anniversary Edition
+Age of Empires IV Anniversary Edition
 The Bazaar
 Path of Exile
 Brotato
-Clair Obscur: Expedition 33
-Umamusume: Pretty Derby
+Clair Obscur Expedition 33
+Umamusume Pretty Derby
 Resident Evil 4
 Escape from Duckov
 MENACE
-Warhammer 40,000: Space Marine 2
+Warhammer 40,000 Space Marine 2
 Cookie Clicker
 Oxygen Not Included
 Brawlhalla
@@ -3731,7 +3731,7 @@ DRAGON QUEST VII Reimagined
 Unturned
 Legends of Idleon MMO
 Balatro
-Cities: Skylines II
+Cities Skylines II
 Europa Universalis V
 Bloons TD 6
 Foxhole
@@ -3746,15 +3746,15 @@ Starsand Island
 Destiny 2
 Europa Universalis IV
 Raft
-Dune: Awakening
+Dune Awakening
 Summoners War
-Cities: Skylines
+Cities Skylines
 Megabonk
 The Isle
 The First Descendant
 Party Animals
 Revolution Idle
-Magic: The Gathering Arena
+Magic The Gathering Arena
 Bellwright
 NBA 2K25
 Arma 3
@@ -3788,37 +3788,37 @@ People Playground
 Lossless Scaling
 F1 25
 Disney Dreamlight Valley
-S.T.A.L.K.E.R. 2: Heart of Chornobyl
+S.T.A.L.K.E.R. 2 Heart of Chornobyl
 DSX
 Palia
 Persona 5 Royal
 Aimlabs
-Torchlight: Infinite
+Torchlight Infinite
 YAPYAP
 Guild Wars 2
 Victoria 3
 Conan Exiles
 Among Us
-Kingdom Come: Deliverance
-Total War: THREE KINGDOMS
+Kingdom Come Deliverance
+Total War THREE KINGDOMS
 The Quinfall
 Sea of Thieves
 Aseprite
-Call to Arms - Gates of Hell: Ostfront
-Detroit: Become Human
+Call to Arms - Gates of Hell Ostfront
+Detroit Become Human
 Tabletop Simulator
-Warhammer 40,000: Darktide
-theHunter: Call of the Wild
-SCP: Secret Laboratory
+Warhammer 40,000 Darktide
+theHunter Call of the Wild
+SCP Secret Laboratory
 MONSTER HUNTER RISE
 Kenshi
 The Outlast Trials
-INAZUMA ELEVEN: Victory Road
+INAZUMA ELEVEN Victory Road
 Assassin's Creed Valhalla
 V Rising
 The Forest
-Shadowverse: Worlds Beyond
-Total War: ROME II - Emperor Edition
+Shadowverse Worlds Beyond
+Total War ROME II - Emperor Edition
 XCOM 2
 StarRupture
 DARK SOULS III
@@ -3828,57 +3828,57 @@ Ghost of Tsushima DIRECTOR'S CUT
 EVE Online
 Play Together
 FOR HONOR
-Warhammer 40,000: Rogue Trader
+Warhammer 40,000 Rogue Trader
 Cell to Singularity - Evolution Never Ends
 Transport Fever 2
 Blue Archive
-Fish Idle 2: Underwater Mystery
+Fish Idle 2 Underwater Mystery
 Forza Horizon 4
 Le Mans Ultimate
 Enlisted
 DEATH STRANDING DIRECTOR'S CUT
 Desktop Mate
-Sky: Children of the Light
+Sky Children of the Light
 OVR Advanced Settings
-Age of Empires III: Definitive Edition
+Age of Empires III Definitive Edition
 Fallout Shelter
 Grounded 2
 Tom Clancy's The Division 2
 Assassin's Creed Odyssey
 Unnamed Space Idle
-Middle-earth: Shadow of War
-DYNASTY WARRIORS: ORIGINS
-Sekiro: Shadows Die Twice
+Middle-earth Shadow of War
+DYNASTY WARRIORS ORIGINS
+Sekiro Shadows Die Twice
 Timberborn
-Diablo II: Resurrected – Infernal Edition
+Diablo II Resurrected – Infernal Edition
 MY HERO ULTRA RUMBLE
 Lost Castle 2
-Mount & Blade: Warband
+Mount & Blade Warband
 Escape the Backrooms
 Overcooked! 2
 Half Sword
 Killing Floor 2
-STAR WARS: The Old Republic
+STAR WARS The Old Republic
 Manor Lords
 Fishing Planet
 Subnautica
 Microsoft Flight Simulator (2020)
 Battlefield 1
 Cairn
-Grand Theft Auto IV: The Complete Edition
+Grand Theft Auto IV The Complete Edition
 Stellar Blade
 God of War Ragnarök
-Total War: MEDIEVAL II - Definitive Edition
+Total War MEDIEVAL II - Definitive Edition
 Core Keeper
 Conqueror's Blade
 Lethal Company
-Dying Light 2: Reloaded Edition
+Dying Light 2 Reloaded Edition
 Grounded
 World of Sea Battle
 Half Sword Demo
 Borderlands 4
 小黑盒加速器
-X4: Foundations
+X4 Foundations
 Supermarket Simulator
 Elite Dangerous
 Tap Ninja
@@ -3887,7 +3887,7 @@ ShareX
 NGU IDLE
 RV There Yet?
 Melvor Idle
-Stronghold Crusader: Definitive Edition
+Stronghold Crusader Definitive Edition
 HIAN World of Assassination
 God of War
 Shop Titans
@@ -3903,26 +3903,26 @@ Space Engineers
 KovaaK's
 DDNet
 Assetto Corsa EVO
-Granblue Fantasy: Relink
+Granblue Fantasy Relink
 Anno 1800
-Workers & Resources: Soviet Republic
+Workers & Resources Soviet Republic
 Vampire Survivors
 Planet Zoo
 Hell Let Loose
 Teardown
 Space Station 14 Playtest
 Marvel’s Spider-Man Remastered
-Age of Mythology: Retold
+Age of Mythology Retold
 Resident Evil 2
 Chained Together
 GeoGuessr Steam Edition
-WUCHANG: Fallen Feathers
-Dying Light: The Beast
+WUCHANG Fallen Feathers
+Dying Light The Beast
 Assassin's Creed Shadows
-STAR WARS Jedi: Survivor
+STAR WARS Jedi Survivor
 The Last Caretaker
 Company of Heroes 3
-Quarantine Zone: The Last Check
+Quarantine Zone The Last Check
 Your Chronicle
 Need for Speed Heat
 HudSight - crosshair overlay
@@ -3930,63 +3930,63 @@ Medieval Dynasty
 Soundpad Demo
 Upload Labs
 The Long Dark
-PUBG: BLINDSPOT
+PUBG BLINDSPOT
 Company of Heroes 2
 Age of Empires II (2013)
 Broken Arrow
 Resident Evil Village
 Lust Goddess
-Call of Duty: Black Ops III
+Call of Duty Black Ops III
 Mass Effect Legendary Edition
 Nioh 2 – The Complete Edition
 Grim Dawn
-Avatar: Frontiers of Pandora
+Avatar Frontiers of Pandora
 Strinova
 BALL x PIT
 Starfield
 Football Manager 2023
 Remnant II
-Warhammer: Vermintide 2
+Warhammer Vermintide 2
 Battlefield V
-Call of Duty: Modern Warfare II
+Call of Duty Modern Warfare II
 Borderlands 3
-Total War: ATTILA
+Total War ATTILA
 RuneScape
 Kerbal Space Program
 The Last of Us Part II Remastered
 XSOverlay
 The Last of Us Part I
 KARDS - The WWII Card Game
-DARK SOULS: REMASTERED
+DARK SOULS REMASTERED
 Hunter Roulette
-gogh: Focus with Your Avatar
+gogh Focus with Your Avatar
 Gunfire Reborn
 Mortal Kombat 1
 Pummel Party
 They Are Billions
-SAO Utils 2: Progressive
+SAO Utils 2 Progressive
 Idle Champions of the Forgotten Realms
 Rise of the Tomb Raider
 觅长生
-DOOM: The Dark Ages
-Monster Hunter Stories 3: Twisted Reflection Trial Version
+DOOM The Dark Ages
+Monster Hunter Stories 3 Twisted Reflection Trial Version
 Wandering Sword
 REMATCH
 GrandChase
 Frostpunk
 Backpack Battles
-Plants vs. Zombies: Game of the Year
+Plants vs. Zombies Game of the Year
 BlazBlue Entropy Effect
 Sniper Elite 5
 Days Gone
 EA SPORTS Madden NFL 26
-Total War: EMPIRE - Definitive Edition
-Pathfinder: Wrath of the Righteous - Enhanced Edition
+Total War EMPIRE - Definitive Edition
+Pathfinder Wrath of the Righteous - Enhanced Edition
 Wallpaper Play
 Far Cry 5
 Tap Tap Loot Playtest
-Halo: The Master Chief Collection
-Total War: SHOGUN 2
+Halo The Master Chief Collection
+Total War SHOGUN 2
 Rabbit and Steel
 Hero's Land
 Captain of Industry
@@ -4002,24 +4002,24 @@ Alchemy Factory
 My Summer Car
 FINAL FANTASY VII REBIRTH
 Sultan's Game
-Deep Rock Galactic: Survivor
+Deep Rock Galactic Survivor
 Persona 3 Reload
 House Flipper 2
-RISK: Global Domination
+RISK Global Domination
 Titan Quest II
 Wartales
-Fallout: New Vegas PCR
-STAR WARS Jedi: Fallen Order
+Fallout New Vegas PCR
+STAR WARS Jedi Fallen Order
 TCG Card Shop Simulator
 学生时代
 Dead Cells
 Noita
 Clicker Heroes
-Tainted Grail: The Fall of Avalon
+Tainted Grail The Fall of Avalon
 Poppy Playtime
 ULTRAKILL
-Blue Protocol: Star Resonance
-UBERMOSH:WRAITH
+Blue Protocol Star Resonance
+UBERMOSHWRAITH
 Half-Life 2
 Cuphead
 Yu-Gi-Oh! Duel Links
@@ -4028,22 +4028,22 @@ Stay Out
 STAR WARS Battlefront II
 Assassin's Creed Origins
 CODE VEIN II
-天外 : 英雄 Online
+天外  英雄 Online
 Marvel's Spider-Man 2
 Train Sim World 6
 ROMANCE OF THE THREE KINGDOMS XIV
 MyDockFinder
 Firestone – Idle Clicker Online RPG
-Project: Gorgon
+Project Gorgon
 WorldBox - God Simulator
 DEAD OR ALIVE Xtreme Venus Vacation
 Farmer Against Potatoes Idle
 Farthest Frontier
-Anno 117: Pax Romana
+Anno 117 Pax Romana
 Backroom Company
 skate.
 Borderlands 2
-Baan: Arkham Knight
+Baan Arkham Knight
 Mecha BREAK
 Dispatch
 Mortal Kombat 11
@@ -4052,10 +4052,10 @@ Car Mechanic Simulator 2021
 Crossout
 Coral Island
 Highguard
-Divinity: Original Sin Enhanced Edition
+Divinity Original Sin Enhanced Edition
 A Way Out
 MineMogul
-Call of Duty: Modern Warfare III
+Call of Duty Modern Warfare III
 Roadside Research
 Shape of Dreams
 ROMANCE OF THE THREE KINGDOMS 8 REMAKE
@@ -4069,12 +4069,12 @@ MARVEL SNAP
 ONE PIECE Bounty Rush
 inZOI
 DOOM Eternal
-Persona5: The Phantom X
-Mafia: Definitive Edition
+Persona5 The Phantom X
+Mafia Definitive Edition
 Heroes of Might & Magic III - HD Edition
 SurrounDead
 My Winter Car
-STAR WARS Empire at War: Gold Pack
+STAR WARS Empire at War Gold Pack
 Tomb Raider
 Knight Online
 Soulmask
@@ -4101,7 +4101,7 @@ FNAF The Joy of Creation
 FNAF The Joy of Creation Reborn
 FNAF The Joy of Creation Story Mode
 Five Night at Freddy's The Beginnings
-FNAF A Golden Past Chapter 1: Grand Reopening
+FNAF A Golden Past Chapter 1 Grand Reopening
 FNAF A Golden Past Chapter 2
 FNAF The Return of Freddy's Winter Wonderland
 FNAF Fazbear Entertainment Storage
