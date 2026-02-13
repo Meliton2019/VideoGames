@@ -4097,7 +4097,6 @@ Hot Wheels Stunt Track Challenge
 Hot Wheels World Race
 Hot Wheels Battle Force 5
 Hot Wheels
-Bad Parenting
 FNAF The Joy of Creation
 FNAF The Joy of Creation Reborn
 FNAF The Joy of Creation Story Mode
@@ -4124,3 +4123,6 @@ FNAF Back in the 80's
 Five Nights at Candy's
 Five Nights at Freddy's Into the Pit
 Five Nights at Freddy's Ultra Custom Night
+CloverPit
+Indie Cross
+Bad Parenting 1
