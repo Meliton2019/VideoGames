@@ -72,7 +72,7 @@ AeroGauge
 Air Boarder 64
 Air Hockey-e
 Alice in Wonderland
-All Night Nippon Super Mario Bros.
+All Night Nippon Super Mario Bros
 Alleyway
 America's Test Kitchen Let's Get Cooking
 And-Kensaku
@@ -108,27 +108,27 @@ AquaSpace
 Arcade Archives CLU CLU LAND
 Arcade Archives DONKEY KONG
 Arcade Archives DONKEY KONG 3
-Arcade Archives DONKEY KONG JR.
+Arcade Archives DONKEY KONG JR
 Arcade Archives EXCITEBIKE
 Arcade Archives GOLF
 Arcade Archives ICE CLIMBER
-Arcade Archives Mario Bros.
+Arcade Archives Mario Bros
 Arcade Archives PUNCH-OUT!!
 Arcade Archives Pinball
 Arcade Archives SOCCER
 Arcade Archives SUPER PUNCH-OUT!!
 Arcade Archives Sky Skipper
 Arcade Archives URBAN CHAMPION
-Arcade Archives VS. BALLOON FIGHT
-Arcade Archives VS. BASEBALL
-Arcade Archives VS. MAH-JONG
-Arcade Archives VS. SUPER MARIO BROS.
-Arcade Archives VS. TENNIS
-Arcade Archives VS. WRECKING CREW
-Arcade Classic No. 1 Asteroids / Missile Command
-Arcade Classic No. 2 Centipede / Millipede
-Arcade Classic No. 3 Galaga / Galaxian
-Arcade Classic No. 4 Defender / Joust
+Arcade Archives VS BALLOON FIGHT
+Arcade Archives VS BASEBALL
+Arcade Archives VS MAH-JONG
+Arcade Archives VS SUPER MARIO BROS
+Arcade Archives VS TENNIS
+Arcade Archives VS WRECKING CREW
+Arcade Classic No 1 Asteroids / Missile Command
+Arcade Classic No 2 Centipede / Millipede
+Arcade Classic No 3 Galaga / Galaxian
+Arcade Classic No 4 Defender / Joust
 Arcana Software Design
 Arkanoid Doh It Again
 Arm Wrestling
@@ -151,7 +151,7 @@ Art Style ZENGAGE
 Art Style light trax
 Art Style precipice
 Astral Chain
-Atari, Inc.
+Atari, Inc
 Atsumeru Egao Chou
 Attoiumani? Ekakiuta
 August 1, 2000
@@ -195,11 +195,11 @@ Barker Bill's Trick Shooting
 Baseball
 Baseball Stars Be a Champ!
 Baseball-e
-Bass Tsuri No.1 Aki no Zenkoku Tournament
-Bass Tsuri No.1 Fuyu no Zenkoku Tournament
-Bass Tsuri No.1 Haru Kesshō Fuyu no Zenkoku Tournament
-Bass Tsuri No.1 Haru Yosen no Zenkoku Tournament
-Bass Tsuri No.1 Natsu no Zenkoku Tournament
+Bass Tsuri No1 Aki no Zenkoku Tournament
+Bass Tsuri No1 Fuyu no Zenkoku Tournament
+Bass Tsuri No1 Haru Kesshō Fuyu no Zenkoku Tournament
+Bass Tsuri No1 Haru Yosen no Zenkoku Tournament
+Bass Tsuri No1 Natsu no Zenkoku Tournament
 Bassmate Computer
 Baten Kaitos Origins
 Baten Kaitos Eternal Wings and the Lost Ocean
@@ -218,7 +218,7 @@ Bayonetta Origins Cereza and the Lost Demon
 Berry Problem Repair Program[U]
 Bibliothek der klassischen Bücher
 Big Brain Academy
-Big Brain Academy Brain vs. Brain
+Big Brain Academy Brain vs Brain
 Big Brain Academy Wii Degree
 Big Value Twin PackAsteroids+Missile Command&Centipede+Millipede
 Big Value Twin PackDonkey Kong&Donkey Kong Land
@@ -287,12 +287,12 @@ City Transport Map Volume 2 - 2009
 Classic NES SeriesBomberman
 Classic NES SeriesCastlevania
 Classic NES SeriesDonkey Kong
-Classic NES SeriesDr. Mario
+Classic NES SeriesDr Mario
 Classic NES SeriesExcitebike
 Classic NES SeriesIce Climber
 Classic NES SeriesMetroid
 Classic NES SeriesPac-Man
-Classic NES SeriesSuper Mario Bros.
+Classic NES SeriesSuper Mario Bros
 Classic NES SeriesThe Legend of Zelda
 Classic NES SeriesXevious
 Classic NES SeriesZelda II The Adventure of Link
@@ -306,7 +306,7 @@ Clubhouse Games Express Strategy Pack
 Clubhouse Games 51 Worldwide Classics
 Clubhouse Games
 Cobra Triangle
-Code Name S.T.E.A.M.
+Code Name STEAM
 Coleco
 Color Space Fever
 Color TV-Game 15
@@ -441,16 +441,16 @@ Donkey Kong Country Returns HD
 Donkey Kong Country Blockbuster World Video Game Championship II
 Donkey Kong Country Tropical Freeze
 Donkey Kong GB Dinky Kong & Dixie Kong
-Donkey Kong Jr.
-Donkey Kong Jr. + Jr. Sansū Lesson
-Donkey Kong Jr. Math
-Donkey Kong Jr.-e
+Donkey Kong Jr
+Donkey Kong Jr + Jr Sansū Lesson
+Donkey Kong Jr Math
+Donkey Kong Jr-e
 Donkey Kong Jungle Beat
 Donkey Kong Land
 Donkey Kong Land 2
 Donkey Kong Land III
 Donkey Kong-e
-Donkey Kong/Donkey Kong Junior/Mario Bros.
+Donkey Kong/Donkey Kong Junior/Mario Bros
 Donkey Konga
 Donkey Konga 2
 Donkey Konga 3
@@ -460,15 +460,15 @@ Dotstream
 Double Dragon
 Double Dribble
 Dr Kawashima's Brain Training for Nintendo Switch
-Dr. Luigi
-Dr. Mario
-Dr. Mario & Puzzle League
-Dr. Mario 64
-Dr. Mario BS-ban
-Dr. Mario Express
-Dr. Mario Online Rx
-Dr. Mario World
-Dr. Mario Miracle Cure
+Dr Luigi
+Dr Mario
+Dr Mario & Puzzle League
+Dr Mario 64
+Dr Mario BS-ban
+Dr Mario Express
+Dr Mario Online Rx
+Dr Mario World
+Dr Mario Miracle Cure
 Drag x Drive
 Dragalia Lost
 Dragon Quest Builders
@@ -574,10 +574,10 @@ Famicom MiniGanbare Goemon! Karakuri Dōchū
 Famicom MiniHikari Shinwa Palutena no Kagame
 Famicom MiniMakaimura
 Famicom MiniMappy
-Famicom MiniMario Bros.
+Famicom MiniMario Bros
 Famicom MiniNazo no Murasamejō
 Famicom MiniStar Soldier
-Famicom MiniSuper Mario Bros. 2
+Famicom MiniSuper Mario Bros 2
 Famicom MiniTakahashi Meijin no Bōken Jima
 Famicom MiniTwinBee
 Famicom MiniWrecking Crew
@@ -591,7 +591,7 @@ Famicom Wars DS Lost Light
 Family BASIC
 Family BASIC V3
 Family Computer Golf Japan Course
-Family Computer Golf U.S. Course
+Family Computer Golf US Course
 Family Fishing
 Family Ski
 Fancy Ball
@@ -696,10 +696,10 @@ Game & Watch Donkey Kong 3
 Game & Watch Donkey Kong Circus
 Game & Watch Donkey Kong Hockey
 Game & Watch Donkey Kong II
-Game & Watch Donkey Kong Jr.
-Game & Watch Donkey Kong Jr.(New Wide Screen Model)
-Game & Watch Donkey Kong Jr.(Panorama Screen Model)
-Game & Watch Donkey Kong Jr.(Table Top Model)
+Game & Watch Donkey Kong Jr
+Game & Watch Donkey Kong Jr(New Wide Screen Model)
+Game & Watch Donkey Kong Jr(Panorama Screen Model)
+Game & Watch Donkey Kong Jr(Table Top Model)
 Game & Watch Egg
 Game & Watch Fire Attack
 Game & Watch Fire(Wide Screen Model)
@@ -716,7 +716,7 @@ Game & Watch Lion
 Game & Watch Manhole
 Game & Watch Manhole(Gold Model)
 Game & Watch Manhole(New Wide Screen Model)
-Game & Watch Mario Bros.
+Game & Watch Mario Bros
 Game & Watch Mario the Juggler
 Game & Watch Mario's Bombs Away
 Game & Watch Mario's Cement Factory
@@ -739,10 +739,10 @@ Game & Watch Snoopy(Panorama Screen Model)
 Game & Watch Snoopy(Table Top Model)
 Game & Watch Spitball Sparky
 Game & Watch Squish
-Game & Watch Super Mario Bros. (Special Edition)
-Game & Watch Super Mario Bros.(Color Screen Model)
-Game & Watch Super Mario Bros.(Crystal Screen Model)
-Game & Watch Super Mario Bros.(New Wide Screen Model)
+Game & Watch Super Mario Bros (Special Edition)
+Game & Watch Super Mario Bros(Color Screen Model)
+Game & Watch Super Mario Bros(Crystal Screen Model)
+Game & Watch Super Mario Bros(New Wide Screen Model)
 Game & Watch The Legend of Zelda
 Game & Watch Tropical Fish
 Game & Watch Turtle Bridge
@@ -865,7 +865,7 @@ Inazuma Eleven Strikers
 Irozuki Tingle no Koi no Balloon Trip
 Isolated Warrior
 Isshoni Photo Pikmin
-Itoi Shigesato no Bass Tsuri No. 1
+Itoi Shigesato no Bass Tsuri No 1
 Itsu no Ma ni Televi
 Jam with the Band
 James Bond 007
@@ -899,7 +899,7 @@ Just Dance Wii U
 K-Byte
 Kabuki Quantum Fighter
 Kaeru no Tame ni Kane wa Naru
-Kaettekita Mario Bros.
+Kaettekita Mario Bros
 Kaijin Zona
 Kaijū Copy
 Kaite Oboeru Eitango Chou
@@ -909,10 +909,10 @@ Kanji Sonomama Rakubiki Jiten DS
 Kao Sapiens
 Karaoke Joysound for Nintendo Switch
 Kemono Friends Picross
-Ken Griffey Jr. Presents Major League Baseball
-Ken Griffey Jr.'s Slugfest
-Ken Griffey Jr.'s Winning Run
-Ken Griffey, Jr.'s Slugfest
+Ken Griffey Jr Presents Major League Baseball
+Ken Griffey Jr's Slugfest
+Ken Griffey Jr's Winning Run
+Ken Griffey, Jr's Slugfest
 Kenkō Ōen Recipe 1000 DS Kondate Zenshū
 Kersploosh!
 Ketzal's Corridors
@@ -989,7 +989,7 @@ Kuruma de DS
 Kururin Paradise
 Kururin Squash
 Kwirk
-Kyou kara Hajimeru Facening Kao Tora-Mini (Vol. 1 - 5)
+Kyou kara Hajimeru Facening Kao Tora-Mini (Vol 1 - 5)
 Kōsen Denwa LT
 Kōsenjū Custom Gunman
 Kōsenjū Custom Lever Action Rifle
@@ -1051,7 +1051,7 @@ Magnetica
 Magnetica Twist
 Mah-Jong
 Mahjong
-Major League Baseball Featuring Ken Griffey, Jr.
+Major League Baseball Featuring Ken Griffey, Jr
 Make 10 A Journey of Numbers
 Mamaberica
 Marble
@@ -1061,7 +1061,7 @@ March 22, 1998 (Tsukinowajima)
 March 8, 1998 (Hagoromojima)
 Mario & Luigi Superstar Saga + Bowser's Minions
 Mario & Luigi Bowser's Inside Story
-Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey
+Mario & Luigi Bowser's Inside Story + Bowser Jr's Journey
 Mario & Luigi Brothership
 Mario & Luigi Dream Team
 Mario & Luigi Paper Jam
@@ -1085,10 +1085,10 @@ Mario Artist Communication Kit
 Mario Artist Paint Studio
 Mario Artist Polygon Studio
 Mario Artist Talent Studio
-Mario Bros.
-Mario Bros. (Classic Series)
-Mario Bros. Special
-Mario Bros.-e
+Mario Bros
+Mario Bros (Classic Series)
+Mario Bros Special
+Mario Bros-e
 Mario Calculator
 Mario Clash
 Mario Clock
@@ -1157,13 +1157,13 @@ Mario is Missing! Deluxe
 Mario no Photopi
 Mario no Picross
 Mario no Super Picross
-Mario vs. Donkey Kong
-Mario vs. Donkey Kong 2 March of the Minis
-Mario vs. Donkey Kong-e (Card 1)
-Mario vs. Donkey Kong-e (Card 2-5)
-Mario vs. Donkey Kong Mini-Land Mayhem!
-Mario vs. Donkey Kong Minis March Again!
-Mario vs. Donkey Kong Tipping Stars
+Mario vs Donkey Kong
+Mario vs Donkey Kong 2 March of the Minis
+Mario vs Donkey Kong-e (Card 1)
+Mario vs Donkey Kong-e (Card 2-5)
+Mario vs Donkey Kong Mini-Land Mayhem!
+Mario vs Donkey Kong Minis March Again!
+Mario vs Donkey Kong Tipping Stars
 Mario's Early Years! CD-ROM Collection
 Mario's Early Years! Fun with Letters
 Mario's Early Years! Fun with Numbers
@@ -1206,7 +1206,7 @@ Mega Man Battle Network 5 Double Team DS
 Mega Man II
 Mega Man III
 Mega Man X
-Mega Man Dr. Wily's Revenge
+Mega Man Dr Wily's Revenge
 Meikyou Kokugo Rakubiki Jiten
 Mercenary Force
 Metal Combat Falcon's Revenge
@@ -1274,8 +1274,8 @@ Mother 1+2
 Mother 2 Gīgu no Gyakushū
 Mother 3
 Motoko-chan no Wonder Kitchen
-Mr. Driller Drill Spirits
-Ms. Pac-Man
+Mr Driller Drill Spirits
+Ms Pac-Man
 Mud Pies Mario's Early Years! Collection
 My Car Race
 My Mario
@@ -1326,12 +1326,12 @@ New Pokémon Snap
 New Shooting Trainer
 New Super Lucky's Tale
 New Super Luigi U
-New Super Mario Bros.
-New Super Mario Bros. 2
-New Super Mario Bros. U
-New Super Mario Bros. U Deluxe
-New Super Mario Bros. U+New Super Luigi U
-New Super Mario Bros. Wii
+New Super Mario Bros
+New Super Mario Bros 2
+New Super Mario Bros U
+New Super Mario Bros U Deluxe
+New Super Mario Bros U+New Super Luigi U
+New Super Mario Bros Wii
 Nickelodeon Kids' Choice Awards 2003
 Nigel Mansell's World Championship Racing
 Nikki's Travel Quiz
@@ -1430,7 +1430,7 @@ Pac-Attack
 Pac-In-Time
 Pac-Man
 Pac-Man 2 The New Adventures
-Pac-Man Vs.
+Pac-Man Vs
 Pac-Pix
 Panda o Tsukurou Animal Block
 Pandora's Tower
@@ -1458,27 +1458,27 @@ Personal Trainer Walking
 Phoenix Wright Ace Attorney
 Phoenix Wright Ace Attorney - Justice for All
 Phoenix Wright Ace Attorney - Trials and Tribulations
-Phonics Fun with Biff, Chip & Kipper (Vol. 1 - 3)
+Phonics Fun with Biff, Chip & Kipper (Vol 1 - 3)
 Photo Clock
 Photo Dojo
 Photo Stand Tsuki Ban-Bro DX Radio
 Photos With Mario
 Photos with Animal Crossing
-Pichu Bros. mini
+Pichu Bros mini
 Picross -LogiartGrimoire-
 Picross -LogiartGrimoire- Emil's Magic Training(DLC)
 Picross 2
 Picross 3D
 Picross 3D Round 2
 Picross DS
-Picross NP Vol. 1
-Picross NP Vol. 2
-Picross NP Vol. 3
-Picross NP Vol. 4
-Picross NP Vol. 5
-Picross NP Vol. 6
-Picross NP Vol. 7
-Picross NP Vol. 8
+Picross NP Vol 1
+Picross NP Vol 2
+Picross NP Vol 3
+Picross NP Vol 4
+Picross NP Vol 5
+Picross NP Vol 6
+Picross NP Vol 7
+Picross NP Vol 8
 Picross S
 Picross S CAPCOM CLASSICS edition
 Picross S+
@@ -1493,7 +1493,7 @@ Picross S9
 Picross S Doraemon & F Characters Edition
 Picross S GENESIS & Master System Edition
 Picross S Namco Legendary Edition
-Picross X Picbits vs. Uzboross
+Picross X Picbits vs Uzboross
 Picross e
 Picross e2
 Picross e3
@@ -1611,7 +1611,7 @@ Pokémon Play It! Version 2
 Pokémon Pokopia
 Pokémon Project Studio
 Pokémon Puzzle Challenge
-Pokémon Puzzle Collection vol. 2
+Pokémon Puzzle Collection vol 2
 Pokémon Puzzle Collection
 Pokémon Puzzle League
 Pokémon Quest
@@ -1677,11 +1677,11 @@ Professor Layton and the Diabolical Box
 Professor Layton and the Last Specter
 Professor Layton and the Miracle Mask
 Professor Layton and the Unwound Future
-Professor Layton vs. Phoenix Wright Ace Attorney
+Professor Layton vs Phoenix Wright Ace Attorney
 Project Hacker Kakusei
 Project Zero 2 Wii Edition
 Pull Pull Pullpy
-Punch Ball Mario Bros.
+Punch Ball Mario Bros
 Punch Race
 Punch-Out
 Punch-Out!!
@@ -1691,13 +1691,13 @@ Push-Over
 Pushmo
 Pushmo World
 Puzzle & Bread
-Puzzle & Dragons Z + Super Mario Bros. Edition
-Puzzle Iro Iro Monthly Crossword House Vol. 1
-Puzzle Iroiro Gekkan Crossword House Vol. 2
-Puzzle Iroiro Gekkan Crossword House Vol. 3
-Puzzle Iroiro Gekkan Crossword House Vol. 4
-Puzzle Iroiro Gekkan Crossword House Vol. 5
-Puzzle Iroiro Gekkan Crossword House Vol. 6
+Puzzle & Dragons Z + Super Mario Bros Edition
+Puzzle Iro Iro Monthly Crossword House Vol 1
+Puzzle Iroiro Gekkan Crossword House Vol 2
+Puzzle Iroiro Gekkan Crossword House Vol 3
+Puzzle Iroiro Gekkan Crossword House Vol 4
+Puzzle Iroiro Gekkan Crossword House Vol 5
+Puzzle Iroiro Gekkan Crossword House Vol 6
 Puzzle League Express
 Qix
 Quest for Camelot
@@ -1706,7 +1706,7 @@ R no Shosai (Weeks 1-2)
 R no Shosai Dai-2-maku (Weeks 1-2)
 R-Type
 R-Type DX
-R.C. Pro-Am
+RC Pro-Am
 Rabbit Coaster Game
 Rad Racer
 Rad Racer II
@@ -1769,7 +1769,7 @@ Sharp MZ
 Sharp X1
 Shatterhand
 Sheriff
-Shigesato Itoi's No. 1 Bass Fishing
+Shigesato Itoi's No 1 Bass Fishing
 Shin 4 Nin Uchi Mahjong Yakuman Tengoku
 Shin Megami Tensei IV
 Shin Megami Tensei V
@@ -1891,26 +1891,26 @@ Super Mario 64
 Super Mario 64 DS
 Super Mario 64 Shindō Pack Taiō Version
 Super Mario Advance
-Super Mario Advance 4 Super Mario Bros. 3
-Super Mario Advance 4 Super Mario Bros. 3-e Series 1
-Super Mario Advance 4 Super Mario Bros. 3-e Series 2
+Super Mario Advance 4 Super Mario Bros 3
+Super Mario Advance 4 Super Mario Bros 3-e Series 1
+Super Mario Advance 4 Super Mario Bros 3-e Series 2
 Super Mario All-Stars
 Super Mario All-Stars + Super Mario World
 Super Mario All-Stars 25th Anniversary Edition
-Super Mario Bros.
-Super Mario Bros. & Friends When I Grow Up
-Super Mario Bros. 2
-Super Mario Bros. 3
-Super Mario Bros. 35
-Super Mario Bros. Deluxe
-Super Mario Bros. Print World
-Super Mario Bros. Special
-Super Mario Bros. Wonder
-Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park
-Super Mario Bros./Duck Hunt
-Super Mario Bros./Duck Hunt/World Class Track Meet
-Super Mario Bros./Tetris/Nintendo World Cup
-Super Mario Bros. The Lost Levels
+Super Mario Bros
+Super Mario Bros & Friends When I Grow Up
+Super Mario Bros 2
+Super Mario Bros 3
+Super Mario Bros 35
+Super Mario Bros Deluxe
+Super Mario Bros Print World
+Super Mario Bros Special
+Super Mario Bros Wonder
+Super Mario Bros Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park
+Super Mario Bros/Duck Hunt
+Super Mario Bros/Duck Hunt/World Class Track Meet
+Super Mario Bros/Tetris/Nintendo World Cup
+Super Mario Bros The Lost Levels
 Super Mario Collection
 Super Mario Galaxy
 Super Mario Galaxy 2
@@ -1946,14 +1946,14 @@ Super Play Action Football
 Super Princess Peach
 Super Punch-Out!!
 Super R-Type
-Super R.C. Pro-Am
+Super RC Pro-Am
 Super Scope 6
-Super Smash Bros.
-Super Smash Bros. Brawl
-Super Smash Bros. Melee
-Super Smash Bros. Ultimate
-Super Smash Bros. for Nintendo 3DS
-Super Smash Bros. for Wii U
+Super Smash Bros
+Super Smash Bros Brawl
+Super Smash Bros Melee
+Super Smash Bros Ultimate
+Super Smash Bros for Nintendo 3DS
+Super Smash Bros for Wii U
 Super Soccer
 Super Spike V'Ball
 Super Spike V'Ball/World Cup Soccer
@@ -2004,7 +2004,7 @@ Tentsunagi
 Terranigma
 Test Driver
 Tetris
-Tetris & Dr. Mario
+Tetris & Dr Mario
 Tetris 2
 Tetris 2
 Tetris 99
@@ -2090,8 +2090,8 @@ Theta
 ThruSpace
 Time Bomb
 Time Shock
-Time Twist Rekishi no Katasumi de... (Disk 1)
-Time Twist Rekishi no Katasumi de... (Disk 2)
+Time Twist Rekishi no Katasumi de (Disk 1)
+Time Twist Rekishi no Katasumi de (Disk 2)
 Tin Star
 Tingle's Balloon Fight
 Tiny Thief
@@ -2151,32 +2151,32 @@ Unirack
 Unoe Sangkwae Teullin Geurim Jeonjip
 Urban Champion
 Urban Champion-e
-VS.Balloon Fight
-VS.Baseball
-VS.Castlevania
-VS.Clu Clu Land
-VS.Dr. Mario
-VS.Duck Hunt
-VS.Excitebike
-VS.Freedom Force
-VS.Golf(International version)
-VS.Golf(Japanese version)
-VS.Gradius
-VS.Gumshoe
-VS.Hogan's Alley
-VS.Ice Climber
-VS.Ladies Golf
-VS.Mach Rider
-VS.Mah-Jong
-VS.Pinball
-VS.Raid on Bungeling Bay
-VS.Slalom
-VS.Soccer
-VS.Super Mario Bros.
-VS.Tennis
-VS.The Goonies
-VS.Urban Champion
-VS.Wrecking Crew
+VSBalloon Fight
+VSBaseball
+VSCastlevania
+VSClu Clu Land
+VSDr Mario
+VSDuck Hunt
+VSExcitebike
+VSFreedom Force
+VSGolf(International version)
+VSGolf(Japanese version)
+VSGradius
+VSGumshoe
+VSHogan's Alley
+VSIce Climber
+VSLadies Golf
+VSMach Rider
+VSMah-Jong
+VSPinball
+VSRaid on Bungeling Bay
+VSSlalom
+VSSoccer
+VSSuper Mario Bros
+VSTennis
+VSThe Goonies
+VSUrban Champion
+VSWrecking Crew
 Vegas Stakes
 Vegas Stakes
 Vertical Force
@@ -2185,10 +2185,10 @@ Viewtiful Joe Red Hot Rumble
 Virtual Boy Wario Land
 Virtual Boy – Nintendo Classics
 Volleyball
-Vs. Clu Clu Land
-Vs. Excitebike
-Vs. Ice Climber
-W.I.T.C.H.
+Vs Clu Clu Land
+Vs Excitebike
+Vs Ice Climber
+WITCH
 Wagamama Fashion Girls Mode Yokubari Sengen! Tokimeki Up!
 Waialae Country Club True Golf Classics
 Wakeari Heya no Tsuzuki
@@ -2200,17 +2200,17 @@ Wario Land II
 Wario Land Shake It!
 Wario Land Super Mario Land 3
 Wario World
-Wario no Mori Event Version Ver. 1
-Wario no Mori Event Version Ver. 2
+Wario no Mori Event Version Ver 1
+Wario no Mori Event Version Ver 2
 Wario no Mori Bakushō-ban
 Wario no Mori Futatabi
 Wario's Woods
 Wario Master of Disguise
-WarioWare D.I.Y.
+WarioWare DIY
 WarioWare Gold
-WarioWare, Inc. Mega Microgame$!
-WarioWare, Inc. Mega Party Game$!
-WarioWare D.I.Y. Showcase
+WarioWare, Inc Mega Microgame$!
+WarioWare, Inc Mega Party Game$!
+WarioWare DIY Showcase
 WarioWare Get It Together!
 WarioWare Move It!
 WarioWare Smooth Moves
@@ -2321,7 +2321,7 @@ Pou
 Pou 3D
 Hytale
 Mini Metro
-Race.io
+Raceio
 Roblox
 Geometry Dash
 Geometry Dash Subzero
@@ -2377,7 +2377,7 @@ Alan Wake's American Nighare
 Albion Online
 Alien Swarm
 Alien Isolation
-Aliens vs. Predator
+Aliens vs Predator
 America's Army Proving Grounds
 American Truck Simulator
 Amnesia The Dark Descent
@@ -2433,7 +2433,7 @@ Battlefield V
 Battlefield Bad Company 2
 Battlerite
 Bayonetta
-BeamNG.drive
+BeamNGdrive
 Beat Saber
 Beholder
 Besiege
@@ -2475,7 +2475,7 @@ Buckshot Roulette
 Bully Scholarship Edition
 Business Tour - Board Game with Online Multiplayer
 CODE VEIN
-CRSED F.O.A.D.
+CRSED FOAD
 CS2D
 Call of Duty 2
 Call of Duty 4 Modern Warfare (2007)
@@ -2608,7 +2608,7 @@ Deus Ex Human Revolution - Director's Cut
 Deus Ex Mankind Divided
 Devil May Cry 5
 DiRT Rally
-DiRT Rally 2.0
+DiRT Rally 20
 Diablo IV
 Digimon Masters Online
 Dirty Bomb
@@ -2638,14 +2638,14 @@ Dwarf Fortress
 Dying Light
 Dying Light 2 Stay Human Reloaded Edition
 Dyson Sphere Program
-EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
+EARTH DEFENSE FORCE 41 The Shadow of New Despair
 ELDEN RING
 ELDEN RING NIGHTREIGN
 ENDLESS Legend
 ENDLESS Space - Definitive Edition
 ENDLESS Space 2
 EVE Online
-Eador. Masters of the Broken World
+Eador Masters of the Broken World
 Elite Dangerous
 Emily is Away
 Enclave
@@ -2813,7 +2813,7 @@ Just Cause 2
 Just Cause 2 Multiplayer Mod
 Just Cause 3
 KARDS - The WWII Card Game
-KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
+KINGDOM HEARTS -HD 15+25 ReMIX-
 Katana ZERO
 Kathy Rain
 Keep Talking and Nobody Explodes
@@ -2833,7 +2833,7 @@ Knight Online
 Knights and Merchants
 Krunker
 KurtzPel
-L.A. Noire
+LA Noire
 LEGO Marvel Super Heroes
 LEGO Star Wars The Skywalker Saga
 LIMBO
@@ -2899,7 +2899,7 @@ Minimalism
 Mirror
 Mirror 2 Project X
 Mirror's Edge
-Mitos.is The Game
+Mitosis The Game
 Monaco What's Yours Is Mine
 Monster Hunter Stories 2 Wings of Ruin
 Monster Hunter Wilds
@@ -2990,7 +2990,7 @@ Plague Inc Evolved
 Planet Coaster
 Planet Zoo
 PlanetSide 2
-Plants vs. Zombies GOTY Edition
+Plants vs Zombies GOTY Edition
 PlateUp!
 Poppy Playtime
 Portal
@@ -3005,7 +3005,7 @@ Quake
 Quake Champions
 Quake Live
 Quantum Break
-R.E.P.O.
+REPO
 REMNANT II
 RIFT
 RISK Global Domination
@@ -3051,9 +3051,9 @@ RuneScape
 Russian Fishing 4
 Rust
 Ryse Son of Rome
-S.K.I.L.L. - Special Force 2 (Shooter)
-S.T.A.L.K.E.R. 2 Heart of Chornobyl
-S.T.A.L.K.E.R. Shadow of Chernobyl
+SKILL - Special Force 2 (Shooter)
+STALKER 2 Heart of Chornobyl
+STALKER Shadow of Chernobyl
 SCARLET NEXUS
 SCP Secret Laboratory
 SCUM
@@ -3259,7 +3259,7 @@ Train Simulator Classic
 Transformice
 Transistor
 Transport Fever
-Tree of Savior (English Ver.)
+Tree of Savior (English Ver)
 Tribes of Midgard
 Tribes Ascend
 Trine 2 Complete Story
@@ -3469,7 +3469,7 @@ Angry Birds 2
 Angry Birds Rio
 Cory in the House
 Call of Duty Black Ops 7
-bloxd.io
+bloxdio
 Monster Hunter Stories 3 Twisted Reflection
 Subway Surfers
 Paper io 2
@@ -3572,7 +3572,7 @@ Cloudberry Kingdom
 Crouching Tiger, Hidden Dragon
 Dance on Broadway
 Dragon Riders
-E.T. Return to the Green Planet
+ET Return to the Green Planet
 Far Cry Instincts
 F1 Racing Championship 2
 Funky Barn
@@ -3608,7 +3608,7 @@ Tom Clancy's Rainbow Six Rogue Spear
 Tom Clancy's Rainbow Six Vegas
 Tom Clancy's Splinter Cell
 Tom Clancy's The Division Heartland
-V.I.P.
+VIP
 Wild
 Wildwaters
 ZombiU 2
@@ -3788,7 +3788,7 @@ People Playground
 Lossless Scaling
 F1 25
 Disney Dreamlight Valley
-S.T.A.L.K.E.R. 2 Heart of Chornobyl
+STALKER 2 Heart of Chornobyl
 DSX
 Palia
 Persona 5 Royal
@@ -3975,7 +3975,7 @@ REMATCH
 GrandChase
 Frostpunk
 Backpack Battles
-Plants vs. Zombies Game of the Year
+Plants vs Zombies Game of the Year
 BlazBlue Entropy Effect
 Sniper Elite 5
 Days Gone
@@ -4041,7 +4041,7 @@ Farmer Against Potatoes Idle
 Farthest Frontier
 Anno 117 Pax Romana
 Backroom Company
-skate.
+skate
 Borderlands 2
 Baan Arkham Knight
 Mecha BREAK
