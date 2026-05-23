@@ -28,3 +28,20 @@ Supercell
 Amd
 Intel
 Snapdragon
+Xfer
+Splice
+Serum
+Native Instruments
+Oxxo
+Mercadona
+Dia
+Carrefour
+Walmart
+Costco
+Sprite
+Cocacola
+Fanta
+Pepsi
+Dell
+HP
+Razer
