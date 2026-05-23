@@ -67,3 +67,14 @@ Firefox
 WinRAR
 Capcut
 Discord
+Internet Download Manager
+Everything
+JDownloader
+Proton
+RekordBox
+Audacity
+Terabox
+Mega
+Mediafire
+Gofile
+SonicMaster
