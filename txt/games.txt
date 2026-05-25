@@ -79,3 +79,7 @@ Mediafire
 Gofile
 SonicMaster
 Flash
+ERN
+Dolby
+Energy Star
+HDMI
