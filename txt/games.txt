@@ -83,3 +83,5 @@ ERN
 Dolby
 Energy Star
 HDMI
+Anthropic
+Mojang
